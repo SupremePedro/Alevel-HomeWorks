@@ -1,8 +1,9 @@
-package AlevelHomeWorks;
+package a-level;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+//123
 
 public class HomeWork2 {
     public static void main(String[] args) throws IOException {
